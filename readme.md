@@ -14,7 +14,7 @@ Some doodles we made with CSS transitions. Enjoy!
 ##### Technologies Used
 
 * HTML
-* CSS
+* SCSS
 * Atom
 * Terminal
 
@@ -23,3 +23,6 @@ Some doodles we made with CSS transitions. Enjoy!
 *This software is licensed under the MIT license.*
 
 &copy;2016 **Molly Curtin &amp; Jeff Seymour**
+
+
+
